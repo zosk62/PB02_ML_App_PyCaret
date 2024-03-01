@@ -48,7 +48,8 @@ Feel free to explore, experiment, and contribute! 🚀
 
 **Note:** The application requires Python, Streamlit, and other dependencies. Ensure to have them installed before running the app.
 
-![SmartML Explorer](images/smartml_explorer.png)
+![SmartML Explorer](st01.png)
+![SmartML Explorer](st02.png)
 
 ---
 
